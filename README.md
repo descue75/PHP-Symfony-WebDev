@@ -1,2 +1,2 @@
 # PHP-Symfony-WebDev
-Playing around with PHP and Symfony
+[Symfony & PHP Mastery: Build a Social Web App](https://www.udemy.com/course/symfony-framework-hands-on/)
